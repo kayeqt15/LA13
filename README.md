@@ -3,8 +3,8 @@
 This is our first GitHub
 activity.
 Members names:
-Mariano, Janine Kaye
+Mariano, Janine
 Yu, King Mark
-Padilla, Anna Liza
+Padilla, Anna 
 Castillo, Kristine
 Sambrano, Hershey
