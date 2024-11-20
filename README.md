@@ -3,8 +3,8 @@
 This is our first GitHub
 activity.
 Members names:
-Alvin Abogado
-John Hedrick Cha
-Klyde Noriega
-Michael Taganna
-Rovir Gian De Gula
+Mariano, Janine Kaye
+Yu, King Mark
+Padilla, Anna Liza
+Castillo, Kristine
+Sambrano, Hershey
